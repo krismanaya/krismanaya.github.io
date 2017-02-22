@@ -36,7 +36,7 @@ The most interesting insight (IMO) was there a better survival outcome based on 
 <img src="/images/MD.png" class="right"/>
 
 #### Comments: 
-The histograms shows the sample population of **577** men who survived and were victims by each class. You may notice that first class males survived in a larger amount then were victims but only 4. Within the total sample poulation of males, first class men had **7.8%** percent chance of survival and a **13%** chance of deat while, third class males had a **8.1%** chance of survival and a **52%** chance of death. 
+The histograms shows the sample population of **577** men who survived and were victims by each class. You may notice that first class males survived in a larger amount then were victims. Within the total sample poulation of males, first class men had **7.8%** percent chance of survival and a **13%** chance of deat while, third class males had a **8.1%** chance of survival and a **52%** chance of death. 
 
 ### Female Survival & Female Victims: 
 <img src="/images/FS.png" class="left"/>
