@@ -25,10 +25,9 @@ The Titanic data allows us to get a sample of the passangers who survived, class
 The most interesting insight (IMO) was there a better survival outcome based on socio-economic status? Given your position on the ship and sex what was the likely hood of your survival? 
 
 ### Male Survival & Male Victims: 
-<img src="/images/MS.png" class="left"/>
-<img src="/images/MD.png" class="right"/>
+<img src="/images/MS.png" class="center" style="width:200px;height:200px;"/>
+<img src="/images/MD.png" class="center"/>
 
-### Female Survival: 
+### Female Survival & Female Victims: 
 <img src="/images/FS.png" class="center"/>
-### Female Victims: 
 <img src="/images/FD.png" class="center"/>
