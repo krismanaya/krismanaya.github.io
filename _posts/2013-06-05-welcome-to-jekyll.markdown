@@ -64,9 +64,9 @@ for Females, the data within the histogram that pops out to me the most survival
 Personally, we believe you may have ahd a better chance of survival in as a first class passanger, however, there were in fact less first class passangers within our sample size. Let's look at the overall titanic survivors by class. 
 
 ##TItanic Survivors by Class
-<img src="/images/PFC.png" class="left"/> 
-<img src="/images/PSC.png" class="right"/> 
-<img src="/images/PTC.png" class="center"/> 
+<img src="/images/PIEFC.png" class="left"/> 
+<img src="/images/PIESC.png" class="right"/> 
+<img src="/images/PIETC.png" class="center"/> 
 
 
 
