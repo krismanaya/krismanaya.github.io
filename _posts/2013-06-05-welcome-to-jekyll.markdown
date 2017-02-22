@@ -35,16 +35,27 @@ The most interesting insight (IMO) was there a better survival outcome based on 
 <img src="/images/MS.png" class="left"/>
 <img src="/images/MD.png" class="right"/>
 
-#### Comments: 
-The histograms shows the sample population of **577** men who survived and were victims by each class. You may notice that first class males survived in a larger amount then were victims. Within the total sample poulation of males, first class men had **7.8%** percent chance of survival and a **13%** chance of deat while, third class males had a **8.1%** chance of survival and a **52%** chance of death. 
+The histograms shows the sample population of **577** men who survived and were victims by each class. You may notice that first class males survived in a larger amount then were victims. Within the total sample poulation of males, first class men had **7.8%** percent chance of survival and a **13%** chance of death while, third class males had a **8.1%** chance of survival and a **52%** chance of death. 
 
 ### Female Survival & Female Victims: 
 <img src="/images/FS.png" class="left"/>
 <img src="/images/FD.png" class="right"/>
 
-
-#### Comments: 
 For the female histograms the total sample population of females were **314**. And as you can see from the visualization women had a better chance of survival. In fact, withint the total sample population of women on the Titanic, first class females had a **29%** chance of survival and only **1%** chance of death, while third class female passangers had **23%** chance of survival and a equal percantage of death. 
+
+
+## Well what about the age of survival? 
+Good question! We want to know what age status was most likely to survive based on the class let's analyze the results: 
+
+### Mean Age By Class for Males
+<img src="/images/MCS.png" class="left"/> 
+<img src="/images/MCD.png" class="right"/> 
+
+
+## Mean Age by Class for Females
+<img src="/images/FCS.png" class="left"/> 
+<img src="/images/FCD.png" class="left"/> 
+
 
 
 
