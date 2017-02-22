@@ -53,12 +53,20 @@ Good question! We want to know what age status was most likely to survive based 
 
 For survival of first class passnagers the average was around **30** while for second class was below **15** and third class was around **18**.The data that pops out to me is the victims of the second class passangers. The age was roughly around **30** while most of the survivors in the second class were children. Thirty years of age is around the time people usually have  young children. 
 
-## Mean Age by Class for Females
+### Mean Age by Class for Females
 <img src="/images/FCS.png" class="left"/> 
 <img src="/images/FCD.png" class="right"/>
- 
+
 for Females, the data within the histogram that pops out to me the most survival and vitctim age for third class passagners falls around children to teenagers. It looks like the average age of a female victim in third class was around **19** or **20** years old. 
 
+
+## So were you more likely to live in first class? 
+Personally, we believe you may have ahd a better chance of survival in as a first class passanger, however, there were in fact less first class passangers within our sample size. Let's look at the overall titanic survivors by class. 
+
+##TItanic Survivors by Class
+<img src="/images/PFC.png" class="left"/> 
+<img src="/images/PSC.png" class="right"/> 
+<img src="/images/PTC.png" class="center"/> 
 
 
 
