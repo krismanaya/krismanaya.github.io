@@ -63,12 +63,22 @@ for Females, the data within the histogram that pops out to me the most survival
 ## So were you more likely to survive in first class? 
 Personally, we believe you may have ahd a better chance of survival in as a first class passanger, however, there were in fact less first class passangers within our sample size. Let's look at the overall titanic survivors by class. 
 
-## Titanic Survivors by Class
+### Titanic Survivors by Class
 
 <img src="/images/PIEFC.png" width="350" height="300" class="left"/> 
 <img src="/images/PIESC.png" width="370" height="300" class="left"/> 
 <img src="/images/PIETC.png" width="350" height="300" class="left"/> 
 
+Over each class group by viewing the pie charts **63%** of people in first class survived while **76%** of third class passangers fell victim to the Titanic tragedy. However, second class survivors were equally split between survivors and victims. Overall, this assumes that you may of had a better chance at survival. 
+
+## Did it matter were you embarked and what about the fare? 
+We wanted to see were the passangers embarked (Cherbourgh, Southampton, Queenstown) and the overall fare based on survivors and victims.
+
+
+### Embarked and Fare of Survivors and Victims
+
+<img src="/images/PIEFC.png" width="350" height="300" class="left"/> 
+<img src="/images/PIESC.png" width="350" height="300" class="righ"/> 
 
 
 
