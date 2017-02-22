@@ -12,10 +12,6 @@ We were given demographics and passenger information from **891** of the **2224*
 
 If you wish to view our source code for this ```python``` project please click [here](https://github.com/krismanaya/udacity_data_analyst/blob/master/project_2/titanic_src/Titanic%20Project%202%20.ipynb)
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/FSGeskFzE0s" frameborder="0" allowfullscreen></iframe>
-
-
-
 ## What are the sample metrics? 
 The Titanic data allows us to get a sample of the passangers who survived, class, name, sex, age, number of siblings; number of parents/children aboard, ticket number, passanger fare, cabin and where they embarked. Of the **891** passengers aboard we found that **38%** of passangers survived on the titanic at an average age of **24** years old. Mostly the survival was in the class 2 seating at an average fare of **$32**:
 
@@ -30,10 +26,10 @@ The most interesting insight (IMO) was there a better survival outcome based on 
 
 ### Male Survival and Victims: 
 
-<img srf="/images/MS.png" class="right"/>
-<img srf="/images/MD.png" class="right"/>
+<img src="/images/MS.png" class="right"/>
+<img src="/images/MD.png" class="right"/>
 
 ### Female Survival and Victims: 
 
-<img srf="/images/FS.png" class="right"/>
-<img srf="/images/FD.png" class="right"/>
+<img src="/images/FS.png" class="right"/>
+<img src="/images/FD.png" class="right"/>
