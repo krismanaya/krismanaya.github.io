@@ -18,8 +18,9 @@ If you wish to view our source code for this ```python``` project please click h
 ### What are the sample metrics? 
 The Titanic data allows us to get a sample of the passangers who survived, class, name, sex, age, number of siblings; number of parents/children aboard, ticket number, passanger fare, cabin and where they embarked. Of the **891** passengers aboard we found that **38%** of passangers survived on the titanic at an average age of **24** years old. Mostly the survival was in the class 2 seating at an average fare of **$32**:
 
-Survived |Victims| Age | Class | Fare |
----------| ------| --- | ----- | ---- |
-   38%   |  62%  | 24  |   2   |  $32 |
+* **Survived** : **38%** 
+* **Victims**  : **62%** 
+* **Age**      : **24** 
+* **Class**    : **2** 
+* **Fare**     : **$32** 
 
-$$ x = 5 $$ 
