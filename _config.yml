@@ -4,6 +4,7 @@ description: A blog for my data days
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
+markdown: kramdown
 
 gems: [jekyll-paginate]
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
