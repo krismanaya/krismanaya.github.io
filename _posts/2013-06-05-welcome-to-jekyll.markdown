@@ -54,7 +54,7 @@ Good question! We want to know what age status was most likely to survive based 
 
 ## Mean Age by Class for Females
 <img src="/images/FCS.png" class="left"/> 
-<img src="/images/FCD.png" class="left"/> 
+<img src="/images/FCD.png" class="right"/> 
 
 
 
