@@ -19,6 +19,13 @@ The Titanic data allows us to get a sample of the passangers who survived, class
 * **Victims**  : **62%** 
 * **Age**      : **24** 
 * **Class**    : **2** 
+  * First Class Survivors: **136**  
+  * First Class Vicitims: **80** 
+  * Second Class Survivors: **87**
+  * Second Class Victims: **97** 
+  * Third Class Survivors: **119** 
+  * Third Class Victims: **372** 
+
 * **Fare**     : **$32** 
 
 ## How many people survived and were victims by class? 
@@ -28,10 +35,10 @@ The most interesting insight (IMO) was there a better survival outcome based on 
 <img src="/images/MS.png" class="left"/>
 <img src="/images/MD.png" class="right"/>
 
-### Female Survival: 
-<img src="/images/FS.png" class="center"/>
-### Female Victims: 
-<img src="/images/FD.png" class="center"/>
+The histograms shows the sample population of **577** men who survived and were victims by each class. You may notice that first class males survived in a larger amount then were victims but only 4. Within the total sample poulation of males, first class men had **7.8%** percent chance of survival and a **13%** chance of deat while, third class males had a **8.1%** chance of survival and a **52%** chance of death. 
 
+### Female Survival & Female Victims: 
+<img src="/images/FS.png" class="left"/>
+<img src="/images/FD.png" class="right"/>
 
-I WANT TO WRITE THINGS
+For the female histograms the total sample population of females were **314**. And as you can see from the visualization women had a better chance of survival. In fact, withint the total sample population of women on the Titanic, first class females had a **29%** chance of survival and only **1%** chance of death, while third class female passangers had **23%** chance of survival and a equal percantage of death.  
