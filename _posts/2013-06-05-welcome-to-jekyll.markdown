@@ -32,3 +32,6 @@ The most interesting insight (IMO) was there a better survival outcome based on 
 <img src="/images/FS.png" class="center"/>
 ### Female Victims: 
 <img src="/images/FD.png" class="center"/>
+
+
+I WANT TO WRITE THINGS
