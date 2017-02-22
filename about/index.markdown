@@ -3,9 +3,5 @@ layout: default
 title: About
 ---
 
-This is where you would but a short bio, and/or a description of your site. It also serves as an example of how to set up a standalone page. For example:
+I am a Mathematician with more then 4 years experience in analyzing problems. I am proficient in Python(Pandas,GraphLab,Scikit,Numpy,Sci-Py) and MYSQL. You may find all my git information here: https://github.com/krismanaya. Furthermore, I also obtained a minor in United States History, which helped me to obtain strong oral and written communication skills. My personal work style is to listen to others and learn from others so I may be able to add real credible input; I believe the importance of working with others is connecting with them as a friend and a colleague. 
 
-<img src="/images/shakespeare.png" class="right" />
-**William Shakespeare** (26 April 1564 – 23 April 1616) was an English poet and playwright, widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist. He is often called England's national poet and the "Bard of Avon". His extant works, including some collaborations, consist of about 38 plays, 154 sonnets, two long narrative poems, and a few other verses, the authorship of some of which is uncertain. His plays have been translated into every major living language and are performed more often than those of any other playwright.
-
-Shakespeare was born and brought up in Stratford-upon-Avon. At the age of 18, he married Anne Hathaway—no, not *that* Anne Hathaway—with whom he had three children.
