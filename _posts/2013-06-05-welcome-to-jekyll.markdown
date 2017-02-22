@@ -66,7 +66,7 @@ Personally, we believe you may have ahd a better chance of survival in as a firs
 ### Titanic Survivors by Class
 
 <img src="/images/PIEFC.png" width="350" height="300" class="left"/> 
-<img src="/images/PIESC.png" width="370" height="300" class="left"/> 
+<img src="/images/PIESC.png" width="370" height="300" class="right"/> 
 <img src="/images/PIETC.png" width="350" height="300" class="right"/> 
 
 
