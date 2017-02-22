@@ -69,6 +69,9 @@ Personally, we believe you may have ahd a better chance of survival in as a firs
 <img src="/images/PIESC.png" width="370" height="300" class="left"/> 
 <img src="/images/PIETC.png" width="350" height="300" class="left"/> 
 
+
+
+
 Over each class group by viewing the pie charts **63%** of people in first class survived while **76%** of third class passangers fell victim to the Titanic tragedy. However, second class survivors were equally split between survivors and victims. Overall, this assumes that you may of had a better chance at survival. 
 
 ## Did it matter were you embarked and what about the fare? 
