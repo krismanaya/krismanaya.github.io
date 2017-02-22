@@ -1,24 +1,15 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Titanic"
 date:   2013-06-05 17:06:25
 categories: jekyll update
 ---
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+### The Survivors and Viticms on the Titanic
+The Titanic was set to port along the east coast of New York, however, on April 15,1912, more then 1,500 people lost their lives [history](https://history.com/topics/titanic). Our objective was to investigate the survivors and vitcims who tragically lost their lives. 
 
-Jekyll also offers powerful support for code snippets:
+We were given demographics and passenger information from **891** of the **2224** passangers and crew on board [Titanic Data](https://d17h27t6h515a5.cloudfront.net/topher/2016/September/57e9a84c_titanic-data/titanic-data.csv). We wish to ask the question: *what factors made people more likely to survive?* 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+If you wish to view our source code for this ```python``` project please click here: [Titanic](https://github.com/krismanaya/udacity_data_analyst/blob/master/project_2/titanic_src/Titanic%20Project%202%20.ipynb)
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
-
-[jekyll-gh]: https://github.com/mojombo/jekyll
-[jekyll]:    http://jekyllrb.com
+<iframe width="640" height="360" src="https://www.youtube.com/embed/FSGeskFzE0s" frameborder="0" allowfullscreen></iframe>
