@@ -77,8 +77,8 @@ We wanted to see were the passangers embarked (Cherbourgh, Southampton, Queensto
 
 ### Embarked and Fare of Survivors and Victims
 
-<img src="/images/PIEFC.png" width="350" height="300" class="left"/> 
-<img src="/images/PIESC.png" width="350" height="300" class="righ"/> 
+<img src="/images/EFS.png" width="350" height="300" class="left"/> 
+<img src="/images/EFD.png" width="350" height="300" class="righ"/> 
 
 
 
