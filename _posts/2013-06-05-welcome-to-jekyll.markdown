@@ -26,10 +26,10 @@ The most interesting insight (IMO) was there a better survival outcome based on 
 
 ### Male Survival and Victims: 
 
-<img src="/images/MS.png" class="right"/>
-<img src="/images/MD.png" class="right"/>
+<img src="/images/MS.png" class="center"/>
+<img src="/images/MD.png" class="center"/>
 
 ### Female Survival and Victims: 
 
-<img src="/images/FS.png" class="right"/>
-<img src="/images/FD.png" class="right"/>
+<img src="/images/FS.png" class="center"/>
+<img src="/images/FD.png" class="center"/>
