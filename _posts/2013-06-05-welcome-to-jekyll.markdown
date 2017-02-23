@@ -93,7 +93,6 @@ The clustering for the victim passangers was relatively similary, however, the a
 
 
 ## Was there any correlation between Fare and Class? 
-
 We wanted to investigate the socio-economic status so we need to have some sort of correlation between class and fare. We calculated Spearman's rank correlation and plotted a fit regression to view our results. 
 
 <img src="/images/SRC.png" class="center"/>
@@ -101,6 +100,10 @@ We wanted to investigate the socio-economic status so we need to have some sort 
 ### Fare and Class
 What we found was the the Spreaman correlation was **-0.69** a pretty good negative correlation. Meaning, as the fare increases the class descreases and we have shown that if you a passanger in class 1 you have more likely chance of survival especially if you are a female. 
 
+
+### What is your conclusion? 
+
+Well, in all does socio-economic status really play a role in your survival? The answer I would prescibe here is yes and no. While, you chance to greatly improve if you are a male in first class, overall, you may have the same chance of falling victim like third class passangers. However, this data changes if you are a female. Female's had a greater chance of survival if they were placed in the first class cabins. Lastly, another metric we could discover is the surival of children by vectorizing our pandas data set with passangers less then 18 and greater than or equal to zero. This would be another great metric to investigate, however, this blog has run its course. 
 
 
 
