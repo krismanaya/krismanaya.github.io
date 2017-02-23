@@ -96,7 +96,7 @@ The clustering for the victim passangers was relatively similary, however, the a
 
 We wanted to investigate the socio-economic status so we need to have some sort of correlation between class and fare. We calculated Spearman's rank correlation and plotted a fit regression to view our results. 
 
-<img src="/images/SRC.png" class="left"/>
+<img src="/images/SRC.png" class="center"/>
 
 ### Fare and Class
 What we found was the the Spreaman correlation was **-0.69** a pretty good negative correlation. Meaning, as the fare increases the class descreases and we have shown that if you a passanger in class 1 you have more likely chance of survival especially if you are a female. 
