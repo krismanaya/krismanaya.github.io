@@ -89,7 +89,18 @@ The clustering of the survival data shows that most passangers were in between t
 
 
 ### Victims 
-THe clustering for the victim passangers was relatively similary, however, the age of the passangers increased so I wanted to investigate the victims who traveled from Southhampton. The average age of death was **24** years old with a and average fare of **21**. Since, I am interested in the class an age I looked at the maximum and minumum of the Southhampton passangers. The maximum age was a **74** year old male with passanger class 3. The passangers with the maximum fare rides were two male passangergs **19** and **64** with passanger class 1. 
+The clustering for the victim passangers was relatively similary, however, the age of the passangers increased so I wanted to investigate the victims who traveled from Southhampton. The average age of death was **24** years old with a and average fare of **21**. Since, I am interested in the class an age I looked at the maximum and minumum of the Southhampton passangers. The maximum age was a **74** year old male with passanger class 3. The passangers with the maximum fare rides were two male passangergs **19** and **64** with passanger class 1. 
+
+
+## Was there any correlation between Fare and Class? 
+
+We wanted to investigate the socio-economic status so we need to have some sort of correlation between class and fare. We calculated Spearman's rank correlation and plotted a fit regression to view our results. 
+
+<img src="/images/SRC.png" class="left"/>
+
+### Fare and Class
+What we found was the the Spreaman correlation was **-0.69** a pretty good negative correlation. Meaning, as the fare increases the class descreases and we have shown that if you a passanger in class 1 you have more likely chance of survival especially if you are a female. 
+
 
 
 
