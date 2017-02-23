@@ -84,4 +84,12 @@ We wanted to see were the passangers embarked (Cherbourgh, Southampton, Queensto
 <img src="/images/EFD.png" width="350" height="300" class="righ"/> 
 
 
+### Survivors
+The clustering of the survival data shows that most passangers were in between the age of zero to fifty and paid a vaired in payments between zero and one hundred doallars. There were three data points that stood out to me so I wanted to investigate. I looked at the maximum payment from the town Chdrbourg and saw that three people with no relation paid the same amount averaging at an age of **35**. Two of the passangers were male and one of the passangers were female. 
+
+
+### Victims 
+THe clustering for the victim passangers was relatively similary, however, the age of the passangers increased so I wanted to investigate the victims who traveled from Southhampton. The average age of death was **24** years old with a and average fare of **21**. Since, I am interested in the class an age I looked at the maximum and minumum of the Southhampton passangers. The maximum age was a **74** year old male with passanger class 3. The passangers with the maximum fare rides were two male passangergs **19** and **64** with passanger class 1. 
+
+
 
