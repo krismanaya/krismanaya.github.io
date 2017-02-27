@@ -12,4 +12,4 @@ I also love me some horror movies and anything that John Carpenter did! Check ou
 
 Below is a photo of me showing you some love: 
 
-<img src="/images/kris.jpg" width="250" height="250" class="left" />
+<img src="/images/kris.jpg" width="250" height="250" class="center" />
