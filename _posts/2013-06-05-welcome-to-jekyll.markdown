@@ -29,7 +29,12 @@ The Titanic data allows us to get a sample of the passangers who survived, class
 * **Fare**     : **$32** 
 
 ## How many people survived and were victims by class? 
-The most interesting insight (IMO) was there a better survival outcome based on socio-economic status? Given your position on the ship and sex what was the likely hood of your survival? 
+The most interesting insight (IMO) was there a better survival outcome based on socio-economic status? Given your position on the ship and sex what was the likely hood of your survival? However, we are still a bit limited how the survival and victim rate stook for most female and males. I'm pretty sure everybody has seen titanic and probably knows the scene "the women and children go first!" Could this in fact be a true possibility. Let's investigate deeper! 
+
+### Survial and Victims by Class and Age: 
+<img src="/images/BPTSD.png" class='left'/>
+
+First let's investigate the passangers by age and class. It's easy to see regarding our boxplot above that the victim rate (denoted as **0**) for each class is set a bit higher by age then the passangers who survived (denoted as **1**). I was especially interested in the first class passanger median for the victims because it falls within the top third quartile of IQR for the passangers who survived.  
 
 ### Male Survival & Male Victims: 
 <img src="/images/MS.png" class="left"/>
